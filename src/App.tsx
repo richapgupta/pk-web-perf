@@ -196,7 +196,7 @@ function App() {
           padding:'5px',
           borderRadius: '10px'
           }} 
-          src="public/PK_logo_white.png">
+          src="/PK_logo_white.png" alt="logo">
           </img>
      <span style={{alignContent: 'center',
       paddingLeft: '20px'
